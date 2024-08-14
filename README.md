@@ -1,7 +1,7 @@
 # Seizcord
 
 
-[GitHub-flavored Markdown](https://guides.github.com/features/mastering-markdown/)
+[My discord server](https://discord.gg/wyUuYr9DEN)
 
 
 Seizcord is a simple library using discord 
