@@ -1,12 +1,24 @@
 # Seizcord
+# https://pypi.org/project/seizcord/
+# https://discord.gg/wyUuYr9DEN
+
+# Seizcord is a simple library using discord api
+# Made by uhq.s
+
+# REQUIREMENTS 
+
+pip install requests
+pip install colorama
+
+# USING
 
 
-[My discord server](https://discord.gg/wyUuYr9DEN)
+# Block User  
 
+```python
+import seizcord
 
-Seizcord is a simple library using discord 
+cli = seizcord.Client(token="YOUR TOKEN")
 
-Made by uhq.s
-
-
-[Pypi](https://pypi.org/project/seizcord/)
+cli.blockUser()
+```
