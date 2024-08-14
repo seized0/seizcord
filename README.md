@@ -7,3 +7,6 @@
 Seizcord is a simple library using discord 
 
 Made by uhq.s
+
+
+Pypi : https://pypi.org/project/seizcord/0.0.1/
