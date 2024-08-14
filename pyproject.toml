@@ -1,0 +1,18 @@
+[project]
+name = "seizcord"
+version = "0.0.1"
+authors = [
+  { name="uhq.s" },
+]
+description = "seizcord is a module made to create selfbot or scripts for discord"
+readme = "README.md"
+requires-python = ">=3.9"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.com/seized0/seizcord"
+Issues = "https://github.com/seized0/"
